@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>icons/360.ico</file>
+        <file>icons/du.ico</file>
+        <file>icons/Edge.ico</file>
+        <file>icons/search.ico</file>
+        <file>icons/drag.ico</file>
+        <file>icons/noDrag.ico</file>
+        <file>icons/trans.ico</file>
+        <file>icons/widget.ico</file>
+        <file>icons/noTop.ico</file>
+        <file>icons/top.ico</file>
+    </qresource>
+</RCC>
